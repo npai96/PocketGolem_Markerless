@@ -19,7 +19,6 @@ II. LIMITATIONS:
 III. ACKNOWLEDGEMENTS:
 
 Golem asset source: https://www.turbosquid.com/FullPreview/Index.cfm/ID/945212
-
 Marker source: http://www.instructables.com/id/Augmented-Reality-Tutorial-for-Beginners-With-Vufo/
 
 IV. DEMO:
