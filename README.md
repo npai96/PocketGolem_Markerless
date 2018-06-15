@@ -2,7 +2,7 @@
 
 I. PURPOSE:
 
-Smartphone-enabled Augmented Reality app that spawns a golem that reacts to vocalised keywords. Created in Unity using Vuforia and IBM Watson SDK. Scripting in C#. Created as a personal experiment.
+Smartphone-enabled Augmented Reality app that spawns a golem avatar that reacts to vocalised keywords. Created in Unity using Vuforia and IBM Watson SDK. Scripting in C#. Created as a personal experiment.
 
 II. LIMITATIONS:
 
